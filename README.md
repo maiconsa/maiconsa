@@ -24,7 +24,7 @@
 
 
 - 👨‍💻 Trabalhando na **NTT DATA** como desenvolvedor spring.
-- 🌱 Em busca de aprimoramentos todos os dia  **AWS, Cloud, DevOps, Camunda, Kafka, Rabbitmq**.
+- 🌱 Em busca de aprimoramentos todos os dia.
 - Mensageria : **Kafka RabbitMQ**
 - Cloud : **AWS , DevOps ,Terraform** 
 
