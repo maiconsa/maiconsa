@@ -125,7 +125,7 @@
   </a>
   <a href="https://www.rabbitmq.com/" target="_blank">
     <img
-      src="https://avatars.githubusercontent.com/u/96669?s=200&v=4"
+      src="https://www.rabbitmq.com/img/logo-rabbitmq.svg"
       alt="rabbitmq"
       width="40"
       height="40"
