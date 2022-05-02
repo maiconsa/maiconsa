@@ -24,8 +24,8 @@
 
 
 - 👨‍💻 Trabalhando na **NTT DATA** como desenvolvedor spring.
-- 🌱 Em busca de aprimoramentos todos os dia.
-- Mensageria : **Kafka RabbitMQ**
+- 🌱 Em busca de aprimoramentos todos os dia.ç;;;;;;;;;;;;;;;;;;;;;;;;;
+- Mensageria : **Kafka,RabbitMQ**
 - Cloud : **AWS , DevOps ,Terraform** 
 
 ### Tecnologias e linguagens
@@ -97,18 +97,40 @@
       height="40"
     />
   </a>
-  <a href="https://kafka.apache.org/" target="_blank">
+  
+   <a href="https://spring.io/" target="_blank">
     <img
-      src="https://avatars.githubusercontent.com/u/47359?s=200&v=4"
-      alt="Apache Kafka"
+      src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg"
+      alt="Spring"
       width="40"
       height="40"
     />
   </a>
+  
    <a href="https://camunda.com/" target="_blank">
     <img
       src="https://avatars.githubusercontent.com/u/2443838?s=200&v=4"
       alt="Camunda"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  
+  
+     <a href="https://www.terraform.io/" target="_blank">
+    <img
+      src="https://www.terraform.io/"
+      alt="Terraform"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+    <a href="https://kafka.apache.org/" target="_blank">
+    <img
+      src="https://avatars.githubusercontent.com/u/47359?s=200&v=4"
+      alt="Apache Kafka"
       width="40"
       height="40"
     />
