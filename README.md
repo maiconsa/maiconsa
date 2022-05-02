@@ -115,18 +115,6 @@
       height="40"
     />
   </a>
-  
-  
-  
-     <a href="https://www.terraform.io/" target="_blank">
-    <img
-      src="https://www.terraform.io/"
-      alt="Terraform"
-      width="40"
-      height="40"
-    />
-  </a>
-  
     <a href="https://kafka.apache.org/" target="_blank">
     <img
       src="https://avatars.githubusercontent.com/u/47359?s=200&v=4"
