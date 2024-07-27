@@ -23,7 +23,7 @@
 ## Sobre Mim <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 
-- 👨‍💻 Trabalhando na **NTT DATA** como desenvolvedor Senior Java.
+- 👨‍💻 Trabalhando na **PicPayA** como desenvolvedor Java.
 - 🌱 Em busca de aprimoramentos todos os dias.
 - Mensageria : **Kafka,RabbitMQ**
 - Cloud : **AWS , DevOps ,Terraform** 
